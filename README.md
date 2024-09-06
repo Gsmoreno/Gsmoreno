@@ -20,8 +20,8 @@ Sou Gustavo Moreno, desenvolvedor Front-End com paixão por criar aplicações e
 
 ## 📊 Estatísticas do GitHub
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=radical&date_format=j%20M%5B%20Y%5D)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gsmoreno&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Gsmoreno&theme=radical&date_format=j%20M%5B%20Y%5D)
 
 ---
 
