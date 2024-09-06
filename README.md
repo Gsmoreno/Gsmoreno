@@ -8,7 +8,7 @@ Sou Gustavo Moreno, desenvolvedor Front-End com paixão por criar aplicações e
 
 ## 🚀 Minhas principais habilidades
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsmoreno&layout=compact&theme=radical)
 
 - **Linguagens**: JavaScript, TypeScript, HTML5, CSS3, SASS
 - **Frameworks e Bibliotecas**: React, Next.js, Tailwind CSS, Vite.js
@@ -27,7 +27,7 @@ Sou Gustavo Moreno, desenvolvedor Front-End com paixão por criar aplicações e
 
 ## 🏆 Conquistas
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Gsmoreno&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🛠 Ferramentas que eu uso no dia a dia
